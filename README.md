@@ -1,8 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
-First, run the development server:
+First rename `.env.example` to `.env.local` then use your [Open AI API Key](https://platform.openai.com/account/api-keys) `OPENAI_API_KEY=xxx`
+
+Then run the development server:
 
 ```bash
 npm run dev
